@@ -222,7 +222,7 @@ function createFlower(){
 
     let flower=document.createElement("div");
 
-    flower.innerHTML="🌹🥀";
+    flower.innerHTML="🌹";
 
     flower.style.position="fixed";
 
